@@ -1,3 +1,3 @@
-# test file for the class
+import dlib
 
-print("Testing the class")
+print("Dlib version:", dlib.__version__)
